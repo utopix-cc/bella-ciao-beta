@@ -1,2 +1,2 @@
-# bella-ciao-demo
+# bella-ciao-beta
 Visual Novel RPG Game
